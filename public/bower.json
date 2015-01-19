@@ -1,0 +1,18 @@
+{
+  "name": "onlineEducation",
+  "version": "0.0.0",
+  "authors": [
+    "7demo <liyanan7demo@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "jquery-form":"~3.46.0",
+    "jquery-file-upload":"~9.9.1",
+    "socket.io":"~0.9.5",
+    "fabric":"~1.4.11",
+    "cropper":"~0.7.7",
+    "bootstrap": "~3.2.0"
+  }
+}
